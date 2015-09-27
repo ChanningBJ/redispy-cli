@@ -1,0 +1,13 @@
+{
+  "conn":[
+    {
+      "name":"test",
+      "host":"hostname",
+      "port":6379,
+      "db":{
+        "1" : "desc of this db1",
+        "2" : "desc of this db2"
+      }
+    }
+  ]
+}
